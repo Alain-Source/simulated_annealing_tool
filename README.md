@@ -5,10 +5,10 @@ The Simulated Annealing algorithm finds the global minimum or maximum of user-de
 
 ## Screenshots
 
-### UserForm — Startup
+### UserForm - Startup
 ![frmOptimiser startup](screenshots/frmOptimiser_startup.png)
 
-### UserForm — Results
+### UserForm - Results
 ![frmOptimiser results](screenshots/frmOptimiser_results.png)
 
 ### Results Sheet
@@ -17,12 +17,12 @@ The Simulated Annealing algorithm finds the global minimum or maximum of user-de
 
 ## Features
 
-- **Interactive VBA UserForm** — enter any function with variables `x` and `y`, set relevant bounds, and evaluate the algorithm
-- **Standard / Advanced modes** — toggle between simplified input controls and full parameter tuning (cooling rate α, epoch limits, thresholds)
-- **Live results table** — iteration-by-iteration output showing convergence toward the optimum point
-- **Convergence chart** — graph of the optimisation trajectory is automatically generated and displayed both in the VBA UserForm and on the Results excel sheet
-- **Built-in validation** — input handling checks for bounds, alpha range, and empty fields
-- **Reset & demo** — Reset button to load Himmelblau's function `(x²+y−11)² + (x+y²−7)²` with default parameters as a test case
+- **Interactive VBA UserForm** enter any function with variables `x` and `y`, set relevant bounds, and evaluate the algorithm
+- **Standard / Advanced modes** toggle between simplified input controls and full parameter tuning (cooling rate α, epoch limits, thresholds)
+- **Live results table** iteration-by-iteration output showing convergence toward the optimum point
+- **Convergence chart** graph of the optimisation trajectory is automatically generated and displayed both in the VBA UserForm and on the Results excel sheet
+- **Built-in validation** input handling checks for bounds, alpha range, and empty fields
+- **Reset & demo** Reset button to load Himmelblau's function `(x²+y−11)² + (x+y²−7)²` with default parameters as a test case
 
 
 ## How to Run
@@ -93,7 +93,7 @@ If you would prefer to inspect or modify the code without downloading the macro-
 
 ## Authors
 
-Built by **Semantic Syndicate** — a 2nd Year Industrial Engineering project at Stellenbosch University (2022).
+Built by **Semantic Syndicate** a 2nd Year Industrial Engineering project at Stellenbosch University (2022).
 - [Alain-Source](https://github.com/Alain-Source)
 - [Nicof10](https://github.com/Nicof10)
 
