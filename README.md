@@ -54,10 +54,10 @@ The random perturbations and acceptance of non-improving solutions allow the alg
 | Parameter | Default | Description |
 |---|---|---|
 | Upper / Lower Bound | ±2 | Search space for x and y |
-| Alpha (α) | 0.95 | Cooling rate — must be < 1 |
+| Alpha (α) | 0.95 | Cooling rate must be < 1 |
 | Max Epochs | 100 | Maximum iterations per temperature step |
 | Min Moves | 100 | Minimum accepted moves before cooling |
-| Solutions Not Accepted | 50 | Stopping criterion — consecutive epochs with no improvement |
+| Solutions Not Accepted | 50 | Stopping criterion: consecutive epochs with no improvement |
 
 
 ## Project Structure
